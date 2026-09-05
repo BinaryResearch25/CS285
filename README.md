@@ -7,7 +7,7 @@ Hi there! 👋
 
 欢迎来到我的 **CS285 Learning Journey**！
 
-我是 **Cosmo**，一名热爱 AI、机器人与强化学习的学习者，同时也是一名 Bilibili UP 主。  
+我是 **BinaryResearch**，一名热爱 AI、机器人与强化学习的学习者，同时也是一名 Bilibili UP 主。  
 这个仓库记录了我学习 **Deep Reinforcement Learning** 的全过程：
 
 - 📚 课程知识梳理
@@ -43,6 +43,14 @@ Hi there! 👋
 ---
 
 ## 📮 Follow & Discuss
+
+📺 **Bilibili**  
+视频讲解与技术分享  
+👉 [BinaryResearch](https://space.bilibili.com/396933306)
+
+💬 **微信公众号**  
+AI / RL / Robotics 系统笔记  
+👉 搜索：BinaryResearch AI Lab
 
 欢迎关注我的微信公众号，一起交流 AI、机器人与强化学习学习笔记。
 
